@@ -4,3 +4,7 @@ a3
 b1
 b2
 a4
+
+===============
+rebase a
+rebase a2
