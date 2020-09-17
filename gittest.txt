@@ -1,16 +1,1 @@
-aaaaaaaaaa
-a2
-a3
-b1
-b2
-a4
-b3
-呗
-
-===============
-rebase a
-rebase a2
-
-
--------------
-a1 after b6
+a merge 1
