@@ -10,3 +10,7 @@ b3
 ===============
 rebase a
 rebase a2
+
+
+-------------
+a1 after b6
